@@ -1,0 +1,44 @@
+{
+  "id": "4225561",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "657472",
+      "name": "住宿",
+      "font_class": "zhusu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "657981",
+      "name": "餐厅",
+      "font_class": "canting",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "749828",
+      "name": "iconfont-xiangjiaosuliao",
+      "font_class": "iconfontxiangjiaosuliao",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "749839",
+      "name": "iconfont-fuwushichang",
+      "font_class": "iconfontfuwushichang",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "33997762",
+      "name": "空中花园",
+      "font_class": "kongzhonghuayuan",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    }
+  ]
+}
